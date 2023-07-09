@@ -1,3 +1,17 @@
+:root {
+  /* COLORS */
+  --clr-violet-400: 257 40% 49%;
+  --clr-magenta-200: 300 69% 71%;
+  --clr-white: 0 0% 100%;
+
+  /* FONTS */
+  --ff-poppins: 'Poppins', sans-serif;
+  --ff-open-sans: 'Open Sans', sans-serif;
+
+  --fw-regular: 400;
+  --fw-semi-bold: 600;
+}
+
 /* RESET */
 
 *,
