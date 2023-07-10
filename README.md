@@ -171,6 +171,14 @@ a {
 }
 ```
 
+- responsive font with `clamp`
+
+```css
+.main__title {
+  font-size: clamp(1.5rem, 2.78vw, 2.5rem);
+}
+```
+
 ## Author
 
 - Frontend Mentor - [@DevShaunB](https://www.frontendmentor.io/profile/DevShaunB)
