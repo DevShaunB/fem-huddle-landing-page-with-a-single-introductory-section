@@ -35,6 +35,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-coW98-xQqp](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-coW98-xQqp)
 - Live Site URL: [https://devshaunb.github.io/fem-huddle-landing-page-with-a-single-introductory-section/](https://devshaunb.github.io/fem-huddle-landing-page-with-a-single-introductory-section/)
 
 ## Reference
