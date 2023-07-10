@@ -69,6 +69,11 @@ h1 {
   font-weight: var(--fw-semi-bold);
 }
 
+.container {
+  max-width: 1290px;
+  margin-inline: auto;
+}
+
 @media screen and (min-width: 23.5em) {
   body {
     background-image: url('./images/bg-desktop.svg');
